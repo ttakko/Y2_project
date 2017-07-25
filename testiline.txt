@@ -1,0 +1,13 @@
+#line:eka
+##hinta:voima
+0:0
+11:30
+#line:toka
+0:0
+12.2:40
+#line:kolmas
+0:0
+13:50
+#line:neljas
+0:0
+10:20

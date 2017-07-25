@@ -1,0 +1,9 @@
+#column:juomat
+##juoma:kulutus
+sima:1000
+vissy:400
+kahvi:687
+kokis:205
+fanta:527
+jaffa:243
+pepsi:20

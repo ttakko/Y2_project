@@ -1,0 +1,9 @@
+#column:Jenkkibudjetti
+Lennot:600
+Trumplippis:25
+Majoitus:650
+Safkat:300
+Matkat:200
+Tuliaiset:200
+Kulttuuri:100
+Auto:400

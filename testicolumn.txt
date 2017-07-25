@@ -1,0 +1,6 @@
+#column:testi
+eka:20
+toka:30
+kolmas:40
+neljas:50
+viides:60
